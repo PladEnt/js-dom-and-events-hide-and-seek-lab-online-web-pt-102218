@@ -1,1 +1,1 @@
-function getFirstSele
+function getFirstSelector()
